@@ -5,7 +5,7 @@
 
 [workspace]
 name = "mystmd-feedstock"
-version = "2026.9.21"  # conda-smithy version used to generate this file
+version = "2026.10.24"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/mystmd-feedstock"
 authors = ["@conda-forge/mystmd"]
 channels = ["conda-forge"]
